@@ -9,32 +9,37 @@
           "type": "multiple-choice",
           "question": "What is the purpose of the 'readonly' modifier in TypeScript?",
           "options": ["Marks a variable as immutable", "Allows variable reassignment", "Indicates a nullable type", "Enables dynamic typing"],
-          "correctAnswer": "Marks a variable as immutable"
+          "correctAnswer": "Marks a variable as immutable",
+          "explanation": "Using 'readonly' marks a variable as immutable, meaning its value cannot be changed after it is assigned."
         },
         {
           "id": 2,
           "type": "text",
           "question": "Complete the term: TypeScript is a superset of ________.",
-          "correctAnswer": "JavaScript"
+          "correctAnswer": "JavaScript",
+          "explanation": "TypeScript is a superset of JavaScript, which means that all JavaScript code is valid TypeScript code."
         },
         {
           "id": 3,
           "type": "multiple-choice",
           "question": "In TypeScript, what is the 'keyof' operator used for?",
           "options": ["Accessing an object's values", "Accessing an object's keys", "Checking for null values", "Performing type casting"],
-          "correctAnswer": "Accessing an object's keys"
+          "correctAnswer": "Accessing an object's keys",
+          "explanation": "The 'keyof' operator in TypeScript is used for accessing an object's keys, providing type safety when working with object properties."
         },
         {
           "id": 4,
           "type": "text",
           "question": "What is the file extension for TypeScript",
-          "correctAnswer": ".ts"
+          "correctAnswer": ".ts",
+          "explanation": "The file extension for TypeScript is '.ts'."
         },
         {
           "id": 5,
           "type": "image",
           "question": "Placeholder for an image-based question",
-          "correctAnswer": "To be replaced with an image URL"
+          "correctAnswer": "To be replaced with an image URL",
+          "explanation": ""
         }
       ]
     },
@@ -47,36 +52,41 @@
           "type": "multiple-choice",
           "question": "What does 'DFS' stand for in the context of algorithms?",
           "options": ["Depth-First Search", "Data Flow System", "Dynamic Function Set", "Directed File System"],
-          "correctAnswer": "Depth-First Search"
+          "correctAnswer": "Depth-First Search",
+          "explanation": "DFS stands for Depth-First Search, which is a traversal algorithm commonly used in graph-related problems."
         },
         {
           "id": 2,
           "type": "multiple-choice",
           "question": "What is the purpose of the '=== 'operator in JavaScript?",
           "options": ["Strict Equality", "Type Coercion", "Assignment", "Logical OR"],
-          "correctAnswer": "Strict Equality"
+          "correctAnswer": "Strict Equality",
+          "explanation": "The '=== ' operator in JavaScript is used for strict equality comparison, checking both value and type."
         },
         {
           "id": 3,
           "type": "multiple-choice",
           "question": "Which of the following data structures follows the Last In, First Out (LIFO) principle?",
           "options": ["Queue", "Stack", "Linked List", "Tree"],
-          "correctAnswer": "Stack"
+          "correctAnswer": "Stack",
+          "explanation": "A Stack follows the Last In, First Out (LIFO) principle, where the last element added is the first one to be removed."
         },
         {
           "id": 4,
           "type": "text",
           "question": "LeetCode frequently uses the term '____________ and Algorithm' to categorize its coding problems.",
-          "correctAnswer": "Data Structures"
+          "correctAnswer": "Data Structures",
+          "explanation": "LeetCode frequently uses the term 'Data Structures and Algorithm' to categorize its coding problems, emphasizing the importance of both concepts."
         },
         {
           "id": 5,
           "type": "image",
           "question": "Placeholder for an image-based question",
-          "correctAnswer": "To be replaced with an image URL"
+          "correctAnswer": "To be replaced with an image URL",
+          "explanation": ""
         }
       ]
     }
   ],
-   "results": []
+  "results": []
 }
