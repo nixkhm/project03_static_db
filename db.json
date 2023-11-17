@@ -37,7 +37,7 @@
         {
           "id": 5,
           "type": "image",
-          "question": "Placeholder for an image-based question",
+          "question": "Placeholder for an image-based question (Press Submit)",
           "correctAnswer": "To be replaced with an image URL",
           "explanation": ""
         }
@@ -81,7 +81,7 @@
         {
           "id": 5,
           "type": "image",
-          "question": "Placeholder for an image-based question",
+          "question": "Placeholder for an image-based question (Press Submit)",
           "correctAnswer": "To be replaced with an image URL",
           "explanation": ""
         }
