@@ -13,7 +13,7 @@
         },
         {
           "id": 2,
-          "type": "input",
+          "type": "text",
           "question": "Complete the term: TypeScript is a superset of ________.",
           "correctAnswer": "JavaScript"
         },
@@ -26,7 +26,7 @@
         },
         {
           "id": 4,
-          "type": "input",
+          "type": "text",
           "question": "In TypeScript, what keyword is used to define the type of a variable?",
           "correctAnswer": "type"
         },
@@ -58,6 +58,7 @@
         },
         {
           "id": 3,
+          "type": "multiple-choice",
           "question": "Which of the following data structures follows the Last In, First Out (LIFO) principle?",
           "options": ["Queue", "Stack", "Linked List", "Tree"],
           "correctAnswer": "Stack"
