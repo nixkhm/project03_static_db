@@ -2,33 +2,39 @@
   "quizzes": [
     {
       "id": 1,
-      "title": "JavaScript Fundamentals Quiz",
+      "title": "TypeScript Quiz",
       "questions": [
         {
           "id": 1,
           "type": "multiple-choice",
-          "question": "What does 'DOM' stand for in JavaScript?",
-          "options": ["Document Object Model", "Data Object Model", "Dynamic Object Manipulation", "Document Oriented Model"],
-          "correctAnswer": "Document Object Model"
+          "question": "What is the purpose of the 'readonly' modifier in TypeScript?",
+          "options": ["Marks a variable as immutable", "Allows variable reassignment", "Indicates a nullable type", "Enables dynamic typing"],
+          "correctAnswer": "Marks a variable as immutable"
         },
         {
           "id": 2,
-          "type": "multiple-choice",
-          "question": "Which keyword is used to declare a variable in JavaScript?",
-          "options": ["var", "let", "const", "variable"],
-          "correctAnswer": "var"
+          "type": "input",
+          "question": "Complete the term: TypeScript is a superset of ________.",
+          "correctAnswer": "JavaScript"
         },
         {
           "id": 3,
-          "type": "text",
-          "question": "What is the result of 5 + '5' in JavaScript?",
-          "correctAnswer": "55"
+          "type": "multiple-choice",
+          "question": "In TypeScript, what is the 'keyof' operator used for?",
+          "options": ["Accessing an object's values", "Accessing an object's keys", "Checking for null values", "Performing type casting"],
+          "correctAnswer": "Accessing an object's keys"
         },
         {
           "id": 4,
-          "type": "text",
-          "question": "What is the purpose of 'typeof' operator in JavaScript?",
-          "correctAnswer": "To determine the data type of a value"
+          "type": "input",
+          "question": "In TypeScript, what keyword is used to define the type of a variable?",
+          "correctAnswer": "type"
+        },
+        {
+          "id": 5,
+          "type": "image",
+          "question": "Placeholder for an image-based question",
+          "correctAnswer": "To be replaced with an image URL"
         }
       ]
     },
@@ -39,31 +45,36 @@
         {
           "id": 1,
           "type": "multiple-choice",
-          "question": "What does 'DOM' stand for in JavaScript?",
-          "options": ["Document Object Model", "Data Object Model", "Dynamic Object Manipulation", "Document Oriented Model"],
-          "correctAnswer": "Document Object Model"
+          "question": "What does 'DFS' stand for in the context of algorithms?",
+          "options": ["Depth-First Search", "Data Flow System", "Dynamic Function Set", "Directed File System"],
+          "correctAnswer": "Depth-First Search"
         },
         {
           "id": 2,
           "type": "multiple-choice",
-          "question": "Which keyword is used to declare a variable in JavaScript?",
-          "options": ["var", "let", "const", "variable"],
-          "correctAnswer": "var"
+          "question": "What is the purpose of the '=== 'operator in JavaScript?",
+          "options": ["Strict Equality", "Type Coercion", "Assignment", "Logical OR"],
+          "correctAnswer": "Strict Equality"
         },
         {
           "id": 3,
-          "type": "text",
-          "question": "What is the result of 5 + '5' in JavaScript?",
-          "correctAnswer": "55"
+          "question": "Which of the following data structures follows the Last In, First Out (LIFO) principle?",
+          "options": ["Queue", "Stack", "Linked List", "Tree"],
+          "correctAnswer": "Stack"
         },
         {
           "id": 4,
           "type": "text",
-          "question": "What is the purpose of 'typeof' operator in JavaScript?",
-          "correctAnswer": "To determine the data type of a value"
+          "question": "LeetCode frequently uses the term 'Algorithm and ____________' to categorize its coding problems.",
+          "correctAnswer": "Data Structures"
+        },
+        {
+          "id": 5,
+          "type": "image",
+          "question": "Placeholder for an image-based question",
+          "correctAnswer": "To be replaced with an image URL"
         }
       ]
     }
-  ],
-  "results": []
+  ]
 }
